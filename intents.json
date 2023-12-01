@@ -3,6 +3,7 @@
     {"tag":"existense",
       "patterns":[
         "who made you?",
+        "who are you?",
         "why do you live?",
         "who developed you?",
         "who generated you?",
@@ -11,21 +12,24 @@
         "Why do you exist?"
       ],
        "responses":[
-        "EuArpit created me for learning purpose of Arificial Neural Networks"
+        "I am a chatbot, Luna, EuArpit created me for learning purpose of Arificial Neural Networks"
        ]},
     { 
       "tag": "greeting",
       "patterns": [
         "Hi",
         "Hey",
-        "Hola",
+        
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day"
+        "Good day",
+        "Who is there?",
+        "Anyone there"
       ],
       "responses": [
         "Welcome there. ",
+        "Hola",
         "Glad you are here. ",
         "Hey :-)",
         "Hello, thanks for visiting. ",
