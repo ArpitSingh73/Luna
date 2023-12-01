@@ -3,6 +3,7 @@
     {"tag":"existense",
       "patterns":[
         "who made you?",
+        "why do you live?",
         "who developed you?",
         "who generated you?",
         "Who created you?",
@@ -24,27 +25,27 @@
         "Good day"
       ],
       "responses": [
-        "Welcome there",
-        "Glad you are here",
+        "Welcome there. ",
+        "Glad you are here. ",
         "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hello, thanks for visiting. ",
+        "Hi there, what can I do for you? ",
+        "Hi there, how can I help? "
       ]
     },
     {
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
+        "See you later, thanks for visiting.",
+        "Have a nice day.",
         "Bye! Come back again soon."
       ]
     },
     {
       "tag": "thanks",
       "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "responses": ["Happy to help!", "Any time!", "My pleasure."]
     },
     {
       "tag": "items",
@@ -56,7 +57,7 @@
         "What do you do?",
         "What do you offer?"
       ],
-      "responses": ["We sell coffee and tea", "We have coffee and tea"]
+      "responses": ["We sell coffee and tea.", "We have coffee and tea."]
     },
     {
       "tag": "payments",
@@ -72,8 +73,8 @@
         "Are you cash only?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "We accept VISA, Mastercard and Paypal...",
+        "We accept cards, and Paypal only."
       ]
     },
     {
@@ -86,7 +87,7 @@
         "How long does shipping take?",
         "When do I get my delivery?"
       ],
-      "responses": ["Delivery takes 2-4 days", "Shipping takes 2-4 days"]
+      "responses": ["Delivery takes 2-4 days only.", "Shipping takes 2-4 days only."]
     },
     {
       "tag": "funny",

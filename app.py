@@ -2,9 +2,12 @@ import streamlit as st
 from chat import get_response
 
 st.title("Coffee shop Chatbot")
+# st.header("Coffee shop Chatbot")
+# st.write("Luna")
 st.divider()
-# temp = st.chat_message("assistant")
-# temp.write(get_response("Hi"))
+temp = st.chat_message("human")
+# static_ans = get_response("Hi")
+temp.write("Hi there, I am Luna. How can I help you?")
 
 input = st.chat_input("")
 
