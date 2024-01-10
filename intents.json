@@ -1,7 +1,8 @@
 {
   "intents": [
-    {"tag":"existense",
-      "patterns":[
+    {
+      "tag": "existense",
+      "patterns": [
         "who made you?",
         "who are you?",
         "why do you live?",
@@ -11,15 +12,44 @@
         "Who is your creater?",
         "Why do you exist?"
       ],
-       "responses":[
+      "responses": [
         "I am a chatbot, Luna, EuArpit created me for learning purpose of Arificial Neural Networks"
-       ]},
-    { 
+      ]
+    },
+    {
+      "tag": "coffee",
+      "patterns": [
+        "what is coffee?",
+        "who is coffee?",
+        "tell me about coffee?"
+      ],
+      "responses": [
+        "Coffee is a beverage brewed from roasted coffee beans, which are the seeds of the fruits of the coffee plant.    Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to East Asia  "
+      ]
+    },
+    {
+      "tag": "tea",
+      "patterns": ["what is tea?", "who is tea?", "tell me about tea?"],
+      "responses": [
+        "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to East Asia  "
+      ]
+    },
+    {
+      "tag": "chatbot",
+      "patterns": [
+        "what is chatbot?",
+        "who is chatbot?",
+        "tell me about chatbot?"
+      ],
+      "responses": [
+        "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet:"
+      ]
+    },
+    {
       "tag": "greeting",
       "patterns": [
         "Hi",
         "Hey",
-        
         "How are you",
         "Is anyone there?",
         "Hello",
@@ -91,14 +121,17 @@
         "How long does shipping take?",
         "When do I get my delivery?"
       ],
-      "responses": ["Delivery takes 2-4 days only.", "Shipping takes 2-4 days only."]
+      "responses": [
+        "Delivery takes 2-4 days only.",
+        "Shipping takes 2-4 days only."
+      ]
     },
     {
       "tag": "funny",
       "patterns": [
         "Tell me a joke!",
         "Tell me something funny!",
-        "Do you know a joke?"
+        "Do you know a joke? "
       ],
       "responses": [
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
