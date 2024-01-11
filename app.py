@@ -11,12 +11,18 @@ if var == "Home":
     temp.write("Hi there, I am Luna. How can I help you?")
     input = st.chat_input("")
 
-    while True:
-        if input:
+    # while True:
+    #     if input:
+    #         temp = st.chat_message("assistant")
+    #         temp.write(get_response(input))
+    #         input = ""
+
+   
+    if input:
+        while input:    
             temp = st.chat_message("assistant")
             temp.write(get_response(input))
             input = ""
-
 
 elif var == "About":
     st.subheader(
