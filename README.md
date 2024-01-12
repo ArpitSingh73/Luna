@@ -1,3 +1,2 @@
 # Chatbot
-
-https://arpitsingh73-chatbot-app-hlzrvi.streamlit.app/
+https://arpitsingh73-chatbot.streamlit.app/
