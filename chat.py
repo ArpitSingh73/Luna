@@ -28,7 +28,7 @@ model.eval()
 bot_name = "Sam"
 
 def get_response(msg):
-   
+
     sentence = tokenize(msg)
     X = bag_of_words(sentence, all_words)
     X = X.reshape(1, X.shape[0])
@@ -44,11 +44,11 @@ def get_response(msg):
     if prob.item() > 0.75:
         for intent in intents['intents']:
             if tag == intent["tag"]:
-               return random.choice(intent['responses'])
-    
+                return random.choice(intent['responses'])
+
     return "Sorry, I do not understand..."
 
-
+print(get_response("who are you"))
 
 
 # print("Let's chat! (type 'quit' to exit)")

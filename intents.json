@@ -10,10 +10,26 @@
         "who generated you?",
         "Who created you?",
         "Who is your creater?",
-        "Why do you exist?"
+        "Why do you exist?",
+        "What is your origin story?",
+        "Who designed your framework?",
+        "What inspired your creation?",
+        "Who programmed your intelligence?",
+        "What is the purpose of your existence?",
+        "Who is behind your development?",
+        "What led to your creation?",
+        "How were you brought into being?",
+        "Who is responsible for your design?",
+        "What motivates your functionality?",
+        "What defines your essence?",
+        "Why were you developed in the first place?",
+        "Who contributed to your programming?",
+        "What is the rationale behind your existence?",
+        "How do you define yourself?",
+        "What is the significance of your role?"
       ],
       "responses": [
-        "I am a chatbot, Luna, EuArpit created me for learning purpose of Arificial Neural Networks"
+        "I am a chatbot, Luna, Arpit created me to use as a helping bot for coffee shop! I provide answers to questions related to my domain i.e., a coffee shop."
       ]
     },
     {
@@ -39,10 +55,19 @@
       "patterns": [
         "what is chatbot?",
         "who is chatbot?",
-        "tell me about chatbot?"
+        "tell me about chatbot?",
+        "What defines a chatbot?",
+        "Who created the first chatbot?",
+        "Can you explain how chatbots work?",
+        "How do chatbots improve customer service?",
+        "What technology powers modern chatbots?",
+        "What are the benefits of using a chatbot?",
+        "Can you describe the evolution of chatbots over time?",
+        "What are some common applications for chatbots?",
+        "What features make a chatbot effective?"
       ],
       "responses": [
-        "A chatbot is a computer program designed to simulate conversation with human users, especially over the internet:"
+        "A chatbot is a software application that simulates human conversation using text or voice. The first chatbot, ELIZA, was created by Joseph Weizenbaum in the 1960s. Chatbots utilize natural language processing (NLP) and artificial intelligence (AI) to understand user queries and provide responses. They are used in customer service to offer instant support and improve efficiency. Benefits include 24/7 availability and the ability to handle multiple inquiries. Challenges include understanding user intent and managing complex interactions. As technology advances, chatbots are expected to become more personalized and integrated with other digital tools, enhancing user experience in various applications."
       ]
     },
     {
@@ -84,12 +109,31 @@
     {
       "tag": "items",
       "patterns": [
-        "Why are you here",
         "Which items do you have?",
         "What kinds of items are there?",
         "What do you sell?",
         "What do you do?",
-        "What do you offer?"
+        "What do you offer?",
+        "What products are available for purchase?",
+        "Can you list the items you carry?",
+        "What categories of goods do you provide?",
+        "What services can I expect from you?",
+        "What types of merchandise do you sell?",
+        "What options do you have in stock?",
+        "Can you tell me what you specialize in?",
+        "What selections do you offer to customers?",
+        "What is included in your product lineup?",
+        "What unique items do you feature?",
+        "Can I see a catalog of your offerings?",
+        "What kinds of products can I find here?",
+        "What is your range of services?",
+        "Which brands do you carry?",
+        "What is your main focus in terms of products?",
+        "Are there any new items available?",
+        "What specialties do you provide?",
+        "Can you describe your available merchandise?",
+        "What are the key features of your products?",
+        "How can I learn more about what you sell?"
       ],
       "responses": ["We sell coffee and tea.", "We have coffee and tea."]
     },
@@ -104,7 +148,27 @@
         "Do you take credit cards?",
         "Do you accept Mastercard?",
         "Can I pay with Paypal?",
-        "Are you cash only?"
+        "Are you cash only?",
+        "What payment methods do you accept?",
+        "Is cash an option for payment?",
+        "Can I use a debit card to pay?",
+        "Do you accept mobile payment options?",
+        "What forms of payment are available?",
+        "Can I pay using a check?",
+        "Are there any payment plans offered?",
+        "Do you accept American Express cards?",
+        "Is online payment possible?",
+        "Can I split my payment across different methods?",
+        "Do you take digital wallets like Apple Pay?",
+        "What is your refund policy regarding payments?",
+        "Can I reserve an item and pay later?",
+        "Is there a minimum amount for card transactions?",
+        "How do I make a payment through your website?",
+        "Do you allow payments in installments?",
+        "Can I use a gift card for my purchase?",
+        "Is cash the only accepted form of payment here?",
+        "What should I do if my payment fails?",
+        "Are there any discounts for cash payments?"
       ],
       "responses": [
         "We accept VISA, Mastercard and Paypal...",
@@ -119,7 +183,27 @@
         "How will I get my coffee?",
         "How long does delivery take?",
         "How long does shipping take?",
-        "When do I get my delivery?"
+        "When do I get my delivery?",
+        "What is your estimated delivery time?",
+        "When will my order be shipped?",
+        "How do you handle deliveries?",
+        "What shipping options are available?",
+        "Can I track my delivery status?",
+        "When can I expect my package to arrive?",
+        "What is the timeframe for processing my order?",
+        "How do you ensure timely delivery?",
+        "Are there any expedited shipping options?",
+        "What carriers do you use for shipping?",
+        "How will I receive my order confirmation?",
+        "Do you offer same-day delivery?",
+        "What should I do if my delivery is delayed?",
+        "Is there a cutoff time for same-day shipping?",
+        "Can I choose a specific delivery date?",
+        "How do you handle international shipping?",
+        "What are the shipping costs associated with my order?",
+        "Will I be notified when my order ships?",
+        "What happens if I'm not home during delivery?",
+        "Can I change my delivery address after placing an order?"
       ],
       "responses": [
         "Delivery takes 2-4 days only.",
