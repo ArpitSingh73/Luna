@@ -26,7 +26,7 @@ if var == "Home":
 
 elif var == "About":
     st.subheader(
-        "Hi there, This is a simple Chatbot, developed for a Coffee Shop. I made this bot to implement my learning of Artificial Neural Networks(ANN). I used PyTorch as framework for model training & the data was manually created. It can answer questions about -"
+        "Hi there, This is a simple Chatbot, developed for a Coffee Shop. I made this bot to implement my learnings of Artificial Neural Networks(ANN). It's a simple food forward neural Network with 2 hidden layes and 8 nodes each, ReLU acts as activation function and finally Cross-entrpy loss in output. I used PyTorch as framework for model training & the data was manually created. It can answer questions about -"
     )
 
     st.text("Bot itself.")
