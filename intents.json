@@ -37,17 +37,64 @@
       "patterns": [
         "what is coffee?",
         "who is coffee?",
-        "tell me about coffee?"
+        "tell me about coffee?",
+        "What exactly is coffee?",
+        "Can you explain what coffee is?",
+        "Who created coffee?",
+        "What can you tell me about coffee?",
+        "How would you define coffee?",
+        "What is the essence of coffee?",
+        "What does coffee refer to?",
+        "Can you describe what coffee is?",
+        "What are the characteristics of coffee?",
+        "How is coffee made?",
+        "What makes up coffee?",
+        "What is the history of coffee?",
+        "Can you provide details about coffee?",
+        "What are the main components of coffee?",
+        "How would you summarize coffee?",
+        "What is the significance of coffee?",
+        "Can you give me an overview of coffee?",
+        "What are the different types of coffee?",
+        "How does one describe coffee?",
+        "What are the flavors associated with coffee?"
       ],
       "responses": [
-        "Coffee is a beverage brewed from roasted coffee beans, which are the seeds of the fruits of the coffee plant.    Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to East Asia  "
+        "Coffee is a beverage made from roasted and ground seeds of the Coffea plant, known for its rich flavor, stimulating caffeine content, and complex aroma. It offers a wide range of taste profiles, including sweetness and acidity, contributing to its global popularity. "
       ]
     },
     {
       "tag": "tea",
-      "patterns": ["what is tea?", "who is tea?", "tell me about tea?"],
+      "patterns": [
+        "what is tea?",
+        "who is tea?",
+        "tell me about tea?",
+        "what is tea?",
+        "who is tea?",
+        "tell me about tea?",
+        "What exactly is tea?",
+        "Can you explain what tea is?",
+        "Who created tea?",
+        "What can you tell me about tea?",
+        "How would you define tea?",
+        "What is the essence of tea?",
+        "What does tea refer to?",
+        "Can you describe what tea is?",
+        "What are the characteristics of tea?",
+        "How is tea made?",
+        "What makes up tea?",
+        "What is the history of tea?",
+        "Can you provide details about tea?",
+        "What are the main components of tea?",
+        "How would you summarize tea?",
+        "What is the significance of tea?",
+        "Can you give me an overview of tea?",
+        "What are the different types of tea?",
+        "How does one describe tea?",
+        "What are the flavors associated with tea?"
+      ],
       "responses": [
-        "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to East Asia  "
+        "Tea is an infusion made from the leaves of the Camellia sinensis plant, available in various types like black, green, and herbal. It is celebrated for its diverse flavors, health benefits, and lower caffeine content compared to coffee, making it a soothing and refreshing drink enjoyed worldwide."
       ]
     },
     {
@@ -90,6 +137,92 @@
         "Hello, thanks for visiting. ",
         "Hi there, what can I do for you? ",
         "Hi there, how can I help? "
+      ]
+    },
+    {
+      "tag": "compare",
+      "patterns": [
+        "which one is better?",
+        "Is tea tastes better or coffee?",
+        "Whose taste is good, tea or coffee?",
+        "Which beverage is superior?",
+        "Does tea taste better than coffee?",
+        "What has a better flavor, tea or coffee?",
+        "Which drink is more enjoyable, tea or coffee?",
+        "Is the taste of tea preferable to coffee?",
+        "Which one has a richer flavor, tea or coffee?",
+        "What tastes better, tea or coffee?",
+        "Is tea more delicious than coffee?",
+        "Which one is more flavorful, tea or coffee?",
+        "Whose flavor is more appealing, tea or coffee?",
+        "Is the taste of coffee better than tea?",
+        "Which drink do people prefer more, tea or coffee?",
+        "What’s the better option for taste, tea or coffee?",
+        "Is tea more satisfying than coffee in flavor?",
+        "Which beverage has a stronger taste, tea or coffee?",
+        "Which drink is tastier, tea or coffee?",
+        "Is the flavor profile of tea better than that of coffee?",
+        "Which one do you think tastes better, tea or coffee?",
+        "How does the taste of tea compare to that of coffee?",
+        "Which one do you enjoy more, tea or coffee?"
+      ],
+      "responses": [
+        "I'ld say, say it's about personal preference. Tea offers a spiced sweetness with its unique blend of spices, while coffee provides a rich, bold flavor that many enjoy. Ultimately, whether one tastes better than the other depends on individual palate and mood!"
+      ]
+    },
+    {
+      "tag": "prices",
+      "patterns": [
+        "what are prices?",
+        "what is the prices for tea?",
+        "what is the price for coffee?",
+        "what is the prices for one cup of tea?",
+        "what is the price for one cup of a coffee?",
+        "how much does it costs?",
+        "What are the costs?",
+        "How much is a cup of tea?",
+        "What’s the price for a cup of coffee?",
+        "How much does a tea cost?",
+        "What’s the price for one serving of tea?",
+        "Can you tell me the cost of coffee?",
+        "What is the price for a single cup of tea?",
+        "How much do you charge for coffee?",
+        "What are the rates for tea?",
+        "How much is it for a cup of coffee?",
+        "What’s the cost of one cup of tea?",
+        "Can you tell me how much coffee costs?",
+        "What is the price for a tea latte?",
+        "How much do I need to pay for a cup of coffee?",
+        "What are the prices for different types of tea?",
+        "How much is one cup of your coffee?",
+        "What’s the pricing for a cup of tea here?",
+        "Can you provide the price for a small coffee?",
+        "How much does it cost to get a tea?"
+      ],
+      "responses": [
+        "We charge 20 INR per cup, both for tea and coffe.",
+        "20 INR is the standard price for both tea and coffee.",
+        "It's equal for both, tea and coffee, the price is 20 INR.",
+        "The cost for both tea and coffee is 20 INR.",
+        "We offer tea and coffee at the same price of 20 INR per cup.",
+        "Both drinks are priced equally at 20 INR each.",
+        "The price for a cup of tea or coffee is 20 INR.",
+        "Tea and coffee both cost 20 INR per serving.",
+        "You’ll pay 20 INR for either tea or coffee.",
+        "The standard price for both beverages is 20 INR.",
+        "It's 20 INR for a cup of tea and the same for coffee.",
+        "We charge the same, 20 INR, for both tea and coffee.",
+        "A cup of tea or coffee will set you back 20 INR.",
+        "The price is uniform at 20 INR for both drinks.",
+        "You can enjoy either tea or coffee for just 20 INR.",
+        "For both tea and coffee, the cost is 20 INR each.",
+        "We have a flat rate of 20 INR for tea and coffee.",
+        "Tea and coffee are each priced at 20 INR per cup.",
+        "The pricing is consistent: both drinks are 20 INR.",
+        "Enjoy a cup of either beverage for only 20 INR.",
+        "Both tea and coffee are available at a price of 20 INR.",
+        "It’s a fixed price of 20 INR for each drink, tea or coffee.",
+        "You can get either a cup of tea or coffee for 20 INR."
       ]
     },
     {
@@ -171,8 +304,17 @@
         "Are there any discounts for cash payments?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal...",
-        "We accept cards, and Paypal only."
+        "Paytm, Phone Pay, Google Pay, Paypal, Debit cards, Credit cards, E-wallets, our favourite Cash on delivery are all the option available.",
+        "Available options include Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and our beloved cash on delivery.",
+        "You can choose from various payment methods such as Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and cash on delivery.",
+        "The payment options at your disposal are Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and of course, cash on delivery.",
+        "We offer multiple payment methods including Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and the ever-popular cash on delivery.",
+        "Options available for payment include Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and our favorite cash on delivery.",
+        "You have several payment options: Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and cash on delivery.",
+        "The options for payment consist of Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, along with cash on delivery.",
+        "Payment methods available to you are Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and our preferred cash on delivery.",
+        "Choose from a variety of payment options like Paytm, Phone Pay, Google Pay, PayPal, debit cards, credit cards, e-wallets, and cash on delivery.",
+        "The available payment choices include Paytm, Phone Pay, Google Pay, PayPal as well as debit and credit cards alongside e-wallets and cash on delivery."
       ]
     },
     {
@@ -206,8 +348,10 @@
         "Can I change my delivery address after placing an order?"
       ],
       "responses": [
-        "Delivery takes 2-4 days only.",
-        "Shipping takes 2-4 days only."
+        "Delivery takes 20 - 30 minutes only.",
+        "Shipping takes 20 - 30 miuntes only.",
+        "It takes around 30 minutes to delever your hot and tasy tea or coffee.",
+        "Around 30 minutes."
       ]
     },
     {
