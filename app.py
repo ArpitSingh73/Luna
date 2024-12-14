@@ -30,6 +30,8 @@ elif var == "About":
     )
 
     st.text("Bot itself.")
-    st.text("Service it offers.")
+    st.text("Prices' information.")
     st.text("Methods of payment.")
+    st.text("Product comparison.")
+    st.text("Service it offers.")
     st.text("Delivery info.")
