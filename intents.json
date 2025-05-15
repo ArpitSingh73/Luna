@@ -365,6 +365,40 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+
+    {
+      "tag": "placeOrder",
+      "patterns": [
+        "Help me to place the order ",
+        "I want to place an order",
+        "Can you help me to place the order?",
+        "I want to order",
+        "Can you help me to order?",
+        "I want to buy",
+        "I want to purchase",
+        "Can you help me to buy?",
+        "Can you help me to purchase?",
+        "I want to get a coffee",
+        "I want to get a tea",
+        "Can you help me to get?",
+        "I want to get a drink",
+        "I want to get a beverage",
+        "Can you help me to get a drink?",
+        "Can you help me to get a beverage?",
+        "from where can I order?",
+        "Can you help me to order a drink?",
+        "Can you help me to order a beverage?"
+      ],
+      "responses": [
+         "That's nice plan! You can order from us by simply filling the order form on our website (https://luna.com/orders) or by calling us at 123-456-7890. We will be happy to assist you. ",
+          "You can place an order by visiting our website (https://luna.com/orders) or by calling us at 123-456-7890. We will be happy to assist you.",
+          "To place an order, you can visit our website (https://luna.com/orders) or call us at 123-456-7890. We will be happy to assist you.",
+          "You can order from us by visiting our website (https://luna.com/orders) or by calling us at 123-456-7890. We will be happy to assist you.",
+          "To place an order, you can visit our website (https://luna.com/orders) or call us at 123-456-7890. We will be happy to assist you.",
+          "You can place an order by visiting our website (https://luna.com/orders) or by calling us at 123-456-7890. We will be happy to assist you.",
+          "To place an order, you can visit our website (https://luna.com/orders) or call us at 123-456-7890. We will be happy to assist you."
+      ]
     }
   ]
 }
