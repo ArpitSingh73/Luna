@@ -371,6 +371,44 @@
         "Why did the coffee bean file a police report? It got mugged!"
       ]
     },
+     {
+      "tag": "helpUser",
+      "patterns": [
+       "I need help",
+        "Can you help me?",
+        "I need assistance",
+        "Can you assist me?",
+        "I require help",
+        "I need support",
+        "Can you provide assistance?",
+        "I need guidance",
+        "Can you guide me?",
+        "I need some help here",
+        "Can you help me out?",
+        "I could use some assistance",
+        "Can you lend me a hand?",
+        "I need some support",
+        "Can you offer assistance?",
+        "I require some help",
+        "Can you provide support?",
+        "I need your help",
+        "Can you assist me with something?",
+        "I need your assistance",
+        "Can you help me with this?"
+      ],
+      "responses": [
+        "Sure, I can help you with order detail, payment, delivery, and more. What do you need help with?",
+        "Of course! I can assist you with order details, payment options, delivery information, and more. What do you need help with?",
+        "Absolutely! I can help you with order details, payment methods, delivery options, and more. What do you need assistance with?",
+        "Yes, I can assist you with order details, payment options, delivery information, and more. What do you need help with?",
+        "Definitely! I can help you with order details, payment methods, delivery options, and more. What do you need assistance with?",
+        "Of course! I can assist you with order details, payment options, delivery information, and more. What do you need help with?",
+        "Sure, I can help you with order details, payment options, delivery information, and more. What do you need assistance with?",
+        "Absolutely! I can help you with order details, payment methods, delivery options, and more. What do you need assistance with?",
+        "Yes, I can assist you with order details, payment options, delivery information, and more. What do you need help with?",
+        "Definitely! I can help you with order details, payment methods, delivery options, and more. What do you need assistance with?"
+      ]
+    },
 
     {
       "tag": "placeOrder",
