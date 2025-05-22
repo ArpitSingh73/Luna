@@ -141,7 +141,7 @@
     },
     {
       "tag": "compare",
-      "patterns": [
+      "patterns": [ 
         "which one is better?",
         "Is tea tastes better or coffee?",
         "Whose taste is good, tea or coffee?",

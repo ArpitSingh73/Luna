@@ -51,11 +51,11 @@ def get_response(msg):
 # print(get_response("what do you have to offer?"))
 
 
-# print("Let's chat! (type 'quit' to exit)")
-# while True:
-#     sentence = str(input("You: "))
-#     if sentence == "quit":
-#         break
-#     else:
-#         response = get_response(sentence)
-#         print(f"{bot_name}: {response}")
+print("Let's chat! (type 'quit' to exit)")
+while True:
+    sentence = str(input("You: "))
+    if sentence == "quit":
+        break
+    else:
+        response = get_response(sentence)
+        print(f"{bot_name}: {response}")
